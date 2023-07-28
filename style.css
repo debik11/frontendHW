@@ -1,0 +1,39 @@
+*{
+	font-family: 'Fira Sans Condensed', sans-serif;
+}
+
+
+.all{
+	display:grid;
+	grid-template-columns: 200px auto;
+	column-gap: 35px;
+	align-items: center;
+}
+
+
+.photo{
+	width: 200px;
+	height: 212px;
+	padding:5px;
+	background-color: #C8A16B;
+}
+
+.name:hover{
+	font-size: 34px;
+}
+
+.age{
+	color: #C93636;
+	margin-top: 0;
+}
+
+.description{
+	font-family: 'Fira Sans', sans-serif;
+	color: #999999;
+}
+
+.descr2{
+	color: #626262;
+	font-family: 'Fira Sans', sans-serif;
+}
+
